@@ -1,2 +1,2 @@
 # Roblow
-A fully autonomous snowblower using ultrasonic and an Arduino
+A fully autonomous snowblower using ultrasonic sensors and an Arduino
